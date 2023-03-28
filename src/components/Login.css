@@ -1,0 +1,137 @@
+.boxs{
+    width: auto;
+    height: 573px;
+    background-color: rgb(245, 243, 243);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contaner{
+    display: flex;
+    width: 70%;
+    height: 90%;
+    background-color: rgb(165, 221, 221);
+    border: 2px groove;
+}
+
+.left-sec{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(250, 253, 253);
+    position: relative;
+}
+
+.right-sec{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(3, 109, 109);
+}
+
+.btnss {
+    display: flex;
+    gap: 15px;
+}
+
+.btn-login{
+    font-size: 0.7rem;
+    font-weight: 600;
+    font-family:sans-serif;
+    width: 200px;
+    height: 35px;
+    background-color: rgb(255, 30, 154);
+    color: white;
+    border-radius: 7px;
+}
+
+.btn-signup{
+    font-size: 0.7rem;
+    font-weight: 600;
+    font-family:sans-serif;
+    width: 200px;
+    height: 35px;
+    color:  rgb(255, 30, 154);
+    background-color:white;
+    border: 2px solid  rgb(255, 30, 154);
+    border-radius: 7px;
+}
+
+.head-content{
+    position: absolute;
+    top: 35px;
+    left: 25px;
+}
+
+.head-contents{
+    position: absolute;
+    top: 70px;
+    left: 25px;
+}
+
+.cyfer{
+    position: absolute;
+    top: 125px;
+    left: 25px;
+}
+
+.names{
+    position: absolute;
+    top: 185px;
+    left: 25px;
+}
+
+.emails{
+    position: absolute;
+    top: 255px;
+    left: 25px;
+}
+
+.checkbx{
+    position: absolute;
+    top: 325px;
+    right:270px;
+}
+
+.remeber{
+    position: absolute;
+    top: 322px;
+    left:48px;
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+.forget{
+    position: absolute;
+    top: 325px;
+    right:30px;
+    font-size: 0.75rem;
+    font-weight: 400;
+}
+
+.btnss{
+    position: absolute;
+    top: 370px;
+    left: 25px;
+}
+
+.login-with{
+    position: absolute;
+    top: 430px;
+    left: 174px;
+}
+
+.fb-gl{
+    position: absolute;
+    top: 448px;
+    left: 160px;
+    color: rgb(255, 30, 154);
+}
+
+.inpts{
+    width: 410px;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+}

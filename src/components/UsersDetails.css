@@ -1,0 +1,59 @@
+/* .product-list{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.product-list ul li{
+    display: inline-block;
+    border: 1px solid skyblue;
+    padding: 5px;
+    width: 150px;
+}
+
+.product-list ul{
+    margin: 0;
+}
+
+.product-heading{
+    margin-bottom: 10px;
+} */
+
+.user-list{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    margin-left: 50px;
+    margin-top: 20px;
+    gap: 40px;
+}
+
+.user-about{
+    width: 1200px;
+    height: auto;
+}
+
+.user-heading{
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding-bottom: 7px;
+    font-family: sans-serif;
+}
+
+.user-list ul li{
+    display: inline-block;
+    border: 1px solid skyblue;
+    padding: 5px;
+    width: 200px;
+    height: 40px;
+}
+
+.user-list ul{
+    margin: 0;
+}
+
+.ul-hed{
+    background-color: black;
+    color: white;
+    font-weight:500 ;
+}

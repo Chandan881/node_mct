@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.product-list{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.product-list ul li{
+    display: inline-block;
+    border: 1px solid skyblue;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+}
+
+.product-list ul{
+    margin: 0;
+}
+
+.product-heading{
+    margin-bottom: 10px;
+}
+
+.ul-he{
+    background-color: black;
+    color: white;
+    font-weight:500 ;
+}
